@@ -17,6 +17,11 @@ $ git clone git@github.com:<your-username>/<your-repo-name>.git
 $ cd <your-repo-name>
 $ bundle install
 $ bundle exec jekyll serve --lsi
+
+# push changes to server and will automatically re-build and deploy the website
+$ git add .
+$ git commit -m "[comments]"
+$ git push -u origin main
 ```
 
 **Commit** changes before deployment

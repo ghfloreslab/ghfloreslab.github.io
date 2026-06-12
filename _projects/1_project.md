@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fortran 90 MPI
+title: Fortran & MPI Computing
 description: High Performance Computing
 img: assets/img/project1/project1thumbnail.png
 importance: 1

@@ -9,7 +9,7 @@ display_categories: # [work, fun]
 horizontal: false
 ---
 
-This section lists some of the projects I completed during my academic career. The goal is to show, inspire, and teach by example the concepts and ideas I learned throughout my academic career, so that you can learn new things, get inspired to do your own fun projects, and teach others what you have learned.
+This section lists some of the projects I have completed showcasing my expertise in different programming languages, computer graphics, and data analysis. The goal is to show, inspire, and teach by example the concepts and ideas so that you can learn new things, get inspired to do your own fun projects, and teach others what you have learned.
 
 <!-- pages/projects.md -->
 <div class="projects">

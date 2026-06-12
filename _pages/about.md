@@ -16,7 +16,7 @@ selected_patents: true # includes a list of patents marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a detail-oriented researcher, engineer, inventor, and data analyst. Skilled in gathering, analyzing, interpreting, and reporting structured and unstructured data. Experienced writing and proofreading technical documents, creating visualizations, designing and configuring software solutions, providing technical support, and working independently and collaboratively to achieve objectives.
+I am a detail-oriented researcher, engineer, inventor, consultant, and data analyst. Skilled in gathering, analyzing, interpreting, and reporting structured and unstructured data. Experienced writing and proofreading technical documents, creating visualizations, designing and configuring software solutions, providing technical support, and working independently and collaboratively to achieve objectives.
 
 I have a Ph.D. in the Computer Engineering from the University of California, Santa Cruz. My research focused on developing a <a href="https://escholarship.org/uc/item/6nq496gw">robust path back-tracing guidance system for blind people</a>. I developed a system to help blind people retrace the path taken in indoor environments as well as a system to convey real-time public transportation travel-related information to the blind or visually impaired.
 
